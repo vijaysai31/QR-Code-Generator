@@ -1,4 +1,4 @@
-Link for the project: r-genie-7.netlify.app/
+Link for the project: https://qr-genie-7.netlify.app/
 
 
 # Getting Started with Create React App
